@@ -16,7 +16,6 @@ Goals: Short Term
 -Add second page
 -confirm navigation works
 
-
 2. Deploy to Google Cloud Run GCR
 
 
