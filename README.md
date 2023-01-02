@@ -11,9 +11,13 @@ potato because it looks like trash and goes as fast as a potato
 
 Goals: Short Term 
 
-1: Load Store Front with one item to sell
+1. Redo store to two pages
+-Add first page
+-Add second page
+-confirm navigation works
 
-2: Implement Typescript on existing code
+
+2. Deploy to Google Cloud Run GCR
 
 
 Goals: Med Term 
@@ -22,5 +26,6 @@ Goals: Med Term
 
 2: Stripe Payment Processing
 
+3. Load Store Front with one item to sell
 
 Goals: Long Term 
