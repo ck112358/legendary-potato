@@ -8,10 +8,19 @@ potato because it looks like trash and goes as fast as a potato
 
 -Firebase-app
 =======
+Today Completion:
+App.js updated
+favicon updated, image was .png, I force converted to .ico
+ContactUs.js updated
+Scrapped Everything due to incorrectly creating the react app
+
+
 
 Goals: Short Term 
 
 1. Redo store to two pages
+
+-install flutter
 -Add first page
 -Add second page
 -confirm navigation works
@@ -26,5 +35,3 @@ Goals: Med Term
 2: Stripe Payment Processing
 
 3. Load Store Front with one item to sell
-
-Goals: Long Term 
