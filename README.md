@@ -8,13 +8,14 @@ potato because it looks like trash and goes as fast as a potato
 
 -Firebase-app
 =======
-Today Completion:
+20230104 Completion:
 App.js updated
 favicon updated, image was .png, I force converted to .ico
 ContactUs.js updated
 Scrapped Everything due to incorrectly creating the react app
 
-
+20230105:
+readme touch
 
 Goals: Short Term 
 
